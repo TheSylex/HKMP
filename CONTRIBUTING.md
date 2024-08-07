@@ -1,4 +1,5 @@
 # Contributing to this repository
+
 ## Issues
 If you come across a bug or have an idea of a feature you want to see, feel free to open an issue.
 Please check before opening a new issue whether the same thing has not already been proposed by someone else.
